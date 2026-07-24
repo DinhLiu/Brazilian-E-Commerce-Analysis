@@ -124,6 +124,9 @@ Interactive Streamlit app covering overview, RFM, repeat drivers, delivery/revie
 # Requires data/processed/ outputs from the notebooks
 streamlit run dashboard/app.py
 ```
+## Live Dashboard
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<tên-app>.streamlit.app)
+
 
 ---
 
