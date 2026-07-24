@@ -125,7 +125,7 @@ Interactive Streamlit app covering overview, RFM, repeat drivers, delivery/revie
 streamlit run dashboard/app.py
 ```
 ## Live Dashboard
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<tên-app>.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dinhliu-brazilian-e-commerce-analysis.streamlit.app/)
 
 
 ---
